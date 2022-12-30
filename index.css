@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: aliceblue;
+  
+}
+
+table, th, td {
+  border: 1px solid;
+  border-radius: 8px;
+}
+
+th {
+  padding: 10px;
+}
+
+label, input {
+  display: block;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 2px;
+  border-radius: 8px;
+}
+
+body {
+  background-color: ghostwhite;
+}
+
+button {
+  display: block;
+  padding: 4px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 6px;
+  border-radius: 10px
+}
